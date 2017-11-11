@@ -1,2 +1,2 @@
 # git test
--fix -B
+-feature-A   -fix -B
